@@ -18,6 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.15.0\n"
 
-#: templates/3-index.html:6
+#: templates/3-index.html: templates/4-index.html:
 msgid "home_title"
 msgstr "Welcome to Holberton"
