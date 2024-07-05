@@ -14,4 +14,3 @@ def index() -> Any:
         index.html template
     """
     return render_template('0-index.html')
-
